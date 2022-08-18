@@ -1,7 +1,7 @@
 # AnswerTypePrediction - Research Project
 
-## Inspired from SMART Task 2021 Challenge: https://smart-task.github.io/2021/
-## Dataset used: https://github.com/smart-task/smart-2021-dataset
+### Inspired from SMART Task 2021 Challenge: https://smart-task.github.io/2021/
+### Dataset used: https://github.com/smart-task/smart-2021-dataset
 
 ## 1. Category Prediction (Trained approach)
 
